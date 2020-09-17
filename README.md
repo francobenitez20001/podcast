@@ -2,7 +2,7 @@
 
 App de podcast integrada con la API de audioboom para aprender Next.JS
 
-![Home de la app](./.satic_git/home.png)
+![Home de la app](./static_git/home.png)
 
 ## ¿Cómo funciona?
 
